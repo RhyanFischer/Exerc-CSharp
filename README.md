@@ -1,2 +1,2 @@
 # Exerc-CSharp
-Exercícios C#
+Exercícios Tabuada C#
