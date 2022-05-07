@@ -1,2 +1,2 @@
-# Exerc-CSharp
+# Exerc-CSharp Tabuada
 Exercícios Tabuada C#
